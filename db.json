@@ -1,6 +1,7 @@
 {
-  "TypesFrais": [],
-  "TVAs": [
+  "api": {
+    "TypesFrais": [],
+    "TVAs": [
     {
       "code": "T003",
       "libelle": "20 %",
@@ -19,7 +20,8 @@
       "value": 0,
       "parDefaut": false
     }
-  ],
+  ]
+  },
   "NatureBiens": [
     {
       "id": 0,
