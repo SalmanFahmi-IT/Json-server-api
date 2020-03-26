@@ -1,6 +1,35 @@
 {
   "api": {
-    "TypesFrais": [],
+    "Bareme": {
+    "tauxNominal": 9.5,
+    "periodicite": 1,
+    "dureeminMois": 24,
+    "dureeMaxMois": 48,
+    "returnMessage": "OK",
+    "returnCode": "0000"
+  },
+    "TypesFrais": [
+    {
+      "code": "MATE",
+      "libelle": "Matériel"
+    },
+    {
+      "code": "ACCS",
+      "libelle": "Accessoires"
+    },
+    {
+      "code": "ATFR",
+      "libelle": "Autres frais"
+    },
+    {
+      "code": "FRIM",
+      "libelle": "Frais d'immatriculation"
+    },
+    {
+      "code": "OPTO",
+      "libelle": "Options"
+    }
+  ],
     "TVAs": [
     {
       "code": "T003",
