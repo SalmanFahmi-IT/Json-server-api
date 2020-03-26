@@ -1,4 +1,21 @@
 {
+  "FormeJuridique":[
+        {
+          "code": "AP",
+          "libelle": "Affaire personnelle",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "AVO",
+          "libelle": "Avocat",
+          "typePersonne": "PP"
+        },
+        {
+          "code": "SNC",
+          "libelle": "Sté en nom collectif",
+          "typePersonne": "PM"
+        }
+    ],
   "products":[
         {
           "id": "P001",
