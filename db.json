@@ -1,4 +1,24 @@
 {
+  "NatureBiens": [
+    {
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "MATERIEL INFORMATIQUE",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },
+    {
+      "id": 0,
+      "bienid": 0,
+      "code": "IB",
+      "libelle": "IMMEUBLE BUREAU",
+      "tauxVR": 10,
+      "libelleCourt": "IMMEUBLE B",
+      "categorieContrat": "CBI"
+    }
+  ],
   "FormeJuridique":[
         {
           "code": "AP",
