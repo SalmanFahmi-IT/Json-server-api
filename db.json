@@ -1,26 +1,4 @@
 {
-    "TypesFrais": [
-    {
-      "code": "MATE",
-      "libelle": "Matériel"
-    },
-    {
-      "code": "ACCS",
-      "libelle": "Accessoires"
-    },
-    {
-      "code": "ATFR",
-      "libelle": "Autres frais"
-    },
-    {
-      "code": "FRIM",
-      "libelle": "Frais d'immatriculation"
-    },
-    {
-      "code": "OPTO",
-      "libelle": "Options"
-    }
-  ],
     "TVAs": [
     {
       "code": "T003",
