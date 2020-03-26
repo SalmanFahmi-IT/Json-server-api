@@ -1,4 +1,24 @@
 {
+  "TVAs": [
+    {
+      "code": "T003",
+      "libelle": "20 %",
+      "value": 20,
+      "parDefaut": true
+    },
+    {
+      "code": "T002",
+      "libelle": "14 %",
+      "value": 14,
+      "parDefaut": false
+    },
+    {
+      "code": "T000",
+      "libelle": "0 %",
+      "value": 0,
+      "parDefaut": false
+    }
+  ],
   "NatureBiens": [
     {
       "id": 0,
