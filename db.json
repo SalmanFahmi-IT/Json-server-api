@@ -24,7 +24,7 @@
       "id": 0,
       "bienid": 0,
       "code": "B02A",
-      "libelle": "MATERIEL INFORMATIQUE",
+      "libelle": "Materiel informatique",
       "tauxVR": 1,
       "libelleCourt": "MATERIEL I",
       "categorieContrat": "CBM"
@@ -33,7 +33,7 @@
       "id": 0,
       "bienid": 0,
       "code": "IB",
-      "libelle": "IMMEUBLE BUREAU",
+      "libelle": "Immeuble bureau",
       "tauxVR": 10,
       "libelleCourt": "IMMEUBLE B",
       "categorieContrat": "CBI"
