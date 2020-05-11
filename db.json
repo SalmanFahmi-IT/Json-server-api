@@ -24,7 +24,7 @@
       "id": 0,
       "bienid": 0,
       "code": "B02A",
-      "libelle": "Materiel informatique",
+      "libelle": "Équipements",
       "tauxVR": 1,
       "libelleCourt": "MATERIEL I",
       "categorieContrat": "CBM"
@@ -33,11 +33,43 @@
       "id": 0,
       "bienid": 0,
       "code": "IB",
-      "libelle": "Immeuble bureau",
+      "libelle": "Automobile",
       "tauxVR": 10,
       "libelleCourt": "IMMEUBLE B",
       "categorieContrat": "CBI"
-    }
+    },{
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "Médical",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "Transport",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "Immobilier",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },{
+      "id": 0,
+      "bienid": 0,
+      "code": "B02A",
+      "libelle": "BTP",
+      "tauxVR": 1,
+      "libelleCourt": "MATERIEL I",
+      "categorieContrat": "CBM"
+    },
   ],
   "FormeJuridique":[
         {
