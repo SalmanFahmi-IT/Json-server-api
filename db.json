@@ -45,30 +45,6 @@
       "tauxVR": 1,
       "libelleCourt": "MATERIEL I",
       "categorieContrat": "CBM"
-    },{
-      "id": 0,
-      "bienid": 0,
-      "code": "B02A",
-      "libelle": "Transport",
-      "tauxVR": 1,
-      "libelleCourt": "MATERIEL I",
-      "categorieContrat": "CBM"
-    },{
-      "id": 0,
-      "bienid": 0,
-      "code": "B02A",
-      "libelle": "Immobilier",
-      "tauxVR": 1,
-      "libelleCourt": "MATERIEL I",
-      "categorieContrat": "CBM"
-    },{
-      "id": 0,
-      "bienid": 0,
-      "code": "B02A",
-      "libelle": "BTP",
-      "tauxVR": 1,
-      "libelleCourt": "MATERIEL I",
-      "categorieContrat": "CBM"
     }
   ],
   "FormeJuridique":[
